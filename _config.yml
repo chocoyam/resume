@@ -1,5 +1,5 @@
 # Site settings
-title: "Minsu Resume"
+title: "Minsu Ji"
 description: "A resume for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -24,8 +24,14 @@ resume_contact_email:           "440709@naver.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: 
-"<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
-
+  "<p style='font-size:20px'>소개</p>
+  <ul style='font-size:16px'>
+  <li>3년차 개발자</li>
+  <li>새로운 기술 습득을 좋아하고 응용을 잘함</li>
+  <li>삽질도 잘함</li>
+  <li>6년차 운동인</li>
+  <li></li>
+  </ul>"
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
